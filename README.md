@@ -19,4 +19,4 @@ Compilation of material used for the solo project
 
 The code which has been used for producing the spectrum graphs has been included here (Figures (2) and (3)).
 
-Figure (1) was produced with Geogebra
+Figure (1) was produced with Geogebra.
