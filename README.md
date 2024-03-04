@@ -14,3 +14,9 @@ Compilation of material used for the solo project
 \bibitem{wikipedia} Wikipedia, \textit{Nuclear Magnetic Resonance Spectroscopy}, \url{https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance_spectroscopy} (accessed 28/02/2024)
 
 \bibitem{eth} ETH Z\"{u}rich, \textit{The S=1/2, I=1/2 system}, \url{https://epr.ethz.ch/education/basic-concepts-of-epr/int--with-nucl--spins/the-s---1-2--i---1-2-system.html} (accessed 02/03/2024)
+
+#########################################################
+
+The code which has been used for producing the spectrum graphs has been included here (Figures (2) and (3)).
+
+Figure (1) was produced with Geogebra
